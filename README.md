@@ -1,4 +1,6 @@
 # vscj
+[![wercker status](https://app.wercker.com/status/55843a4c3b9762b24044f6eab2bd08ca/s/master "wercker status")](https://app.wercker.com/project/byKey/55843a4c3b9762b24044f6eab2bd08ca)
+
 Visual Studio Code for Japanese
 
 ## Build Setup
