@@ -1,5 +1,6 @@
 <template lang="pug">
-h1 Index.vue
+.container-wide
+  h2 Index.vue
 </template>
 
 <script>
