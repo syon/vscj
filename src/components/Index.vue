@@ -1,6 +1,11 @@
 <template lang="pug">
 .container-wide
   h2 Index.vue
+  ul
+    li
+      router-link(to="/extensions/") extensions
+    li
+      router-link(to="/extensions/") extensions
 </template>
 
 <script>
