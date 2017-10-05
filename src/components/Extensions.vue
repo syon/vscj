@@ -4,6 +4,8 @@
   ul
     li
       router-link(to="/extensions/item/wmaurer.vscode-jumpy") wmaurer.vscode-jumpy
+    li
+      router-link(to="/extensions/item/oderwat.indent-rainbow") oderwat.indent-rainbow
 </template>
 
 <script>
