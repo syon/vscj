@@ -10,6 +10,7 @@ export default {
     'async-article': () => {
       // console.log($route);
       // => ReferenceError: $route is not defined
+      // https://github.com/vuejs/vuex-router-sync
       const filename = window.location.href.match(/[^/]+$/)[0];
       return import(`../articles/${filename}.md`);
     },
