@@ -1,4 +1,7 @@
 module.exports = {
+  modules: [
+    '@nuxtjs/markdownit'
+  ],
   /*
   ** Headers of the page
   */
