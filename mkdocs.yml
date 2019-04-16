@@ -1,16 +1,16 @@
 # Project information
-site_name: The Site Name
+site_name: VSCJ
 
 # Repository
-repo_name: mkdocs-material-starterkit
-repo_url: https://github.com/syon/mkdocs-material-starterkit
+repo_name: syon/vscj
+repo_url: https://github.com/syon/vscj
 
 # Configuration
 theme:
   name: 'material'
   palette:
-    primary: 'deep orange'
-    accent: 'green'
+    primary: 'purple'
+    accent: 'orange'
   language: 'ja'
   feature:
     tabs: true
