@@ -18,6 +18,8 @@ build:
 
 deploy:
   steps:
+    - install-packages:
+        packages: git ssh-client
     - lukevivier/gh-pages:
         token: $GH_TOKEN
         basedir: site
