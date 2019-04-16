@@ -1,20 +1,22 @@
 # vscj
-[![wercker status](https://app.wercker.com/status/55843a4c3b9762b24044f6eab2bd08ca/s/master "wercker status")](https://app.wercker.com/project/byKey/55843a4c3b9762b24044f6eab2bd08ca)
 
-Visual Studio Code for Japanese
+> Nuxt.js project
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+$ npm install # Or yarn install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-# build for production with minification
-npm run build
+# build for production and launch server
+$ npm run build
+$ npm start
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# generate static project
+$ npm run generate
 ```
+
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
