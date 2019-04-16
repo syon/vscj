@@ -1,25 +1,20 @@
-# mkdocs-material-starterkit
-StarterKit of MkDocs with Material Design theme
+# Index
 
-- __Generator:__ [MkDocs](https://www.mkdocs.org/)
-- __Theme__: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-- __Demo__: https://syon.github.io/mkdocs-material-starterkit/
+> Visual Studio Code for Japanese
 
 !!! info "__Docker__ is Recomended"
 
     This starter-kit uses Docker to avoid installing Python.
     It makes your computer clean.
 
-## Usage
+## Markdown (PyMdown)
 
-- __[Mac](./Mac/)__
-- __[Windows](./Windows/)__
+- [Admonition - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/extensions/admonition/)
 
-## Tips
+!!! tip
+    If you are attempting to configure these options in a YAML based configuration (like in [MkDocs][mkdocs]), please see the related [FAQ question](#function-references-in-yaml) to see how to specify function references in YAML.
 
-### How to automate deploying via Wercker
+???+ note "Open styled details"
 
-- Sign Up for Wercker
-- Push this repository to GitHub
-- Connect this repository to Wercker
-- [GitHubアクセストークンとWerckerの設定 :: GitHub Pages \| Refills](https://syon.github.io/refills/rid/1462280/)
+    ??? danger "Nested details!"
+        And more content again.
